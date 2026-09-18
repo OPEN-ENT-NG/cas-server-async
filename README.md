@@ -6,3 +6,6 @@
 * Description : serveur CAS asynchrone pour Vertx.
 
 
+
+
+Ce dépôt est un miroir officiel du dépôt Edifice : https://github.com/edificeio/cas-server-async
